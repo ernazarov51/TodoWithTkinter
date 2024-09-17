@@ -1,0 +1,9 @@
+1,1,Python Project,Point-of-sale,Monday,2024-07-29 10:31:22
+2,1,Python Project,ToDo Project,11:00 PM,2024-07-29 10:32:43
+3,1,Sport,Run 1 km,06:30 AM,2024-07-31 22:41:19
+4,2,Lesson,Math equal system,21:00,2024-07-31 22:45:18
+5,3,Lesson,Alghoritms,22:00,2024-07-31 22:48:12
+6,4,Match CHL,Man city vs Barca,01:00 PM,2024-07-31 22:52:29
+7,1,Work,E-Commerce Project,10:00 AM,2024-08-01 09:52:29
+8,1,Lesson,on W3 Schools,Monday 10:00 AM,2024-08-01 09:53:29
+9,1,Sport,Footbal with friends,Satuday 22:00,2024-08-01 00:31:17
